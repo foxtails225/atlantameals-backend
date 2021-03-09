@@ -71,5 +71,5 @@ public/cliserver.php
 
 ### Composer ###
 composer.phar
-/vendor/
-/vendor/*
+#/vendor/
+#/vendor/*

@@ -3,7 +3,7 @@
 return [
     'database' => [
         'type' => 'mysql',
-        'host' => '18.221.253.126',
+        'host' => '127.0.0.1',
         'port' => 3306,
         'name' => 'atlantamealprep',
         'username' => 'root',
