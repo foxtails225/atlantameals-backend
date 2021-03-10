@@ -21,7 +21,7 @@ if (!$projectName) {
     } else {
         $configData = $schema->value([]);
     }
-
+    
     return \Directus\create_unknown_project_app($basePath, $configData);
 }
 
